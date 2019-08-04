@@ -196,7 +196,8 @@ Available log levels are the same as in the core log functions
    - MYLOG_LOG_LEVEL_VERBOSE    
    
 ### Setup log level in PlatformIO
-In the `platformio.ini` file define the log level you want for your application log with `build_flags = -DMYLOG_LOG_LEVEL=MYLOG_LOG_LEVEL_VERBOSE`    
+In the `platformio.ini` file define the log level you want for your application log with    
+`build_flags = -DMYLOG_LOG_LEVEL=MYLOG_LOG_LEVEL_VERBOSE`    
 Example:
 ```
 [env:ESP32]

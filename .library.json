@@ -1,0 +1,33 @@
+{
+	"name": "ESP32-MyLog",
+	"version": "1.0.0",
+	"keywords": [
+		"logging"
+	],
+	"description": "Log output functions similar to the Arduino-ESP32 log function, but used for application code output only without the system level log output",
+	"frameworks": [
+		"arduino"
+	],
+	"platforms": [
+		"espressif32"
+	],
+	"license": [
+		"MIT License"
+	],
+	"examples": [
+		"examples/*/*.ino"
+	],
+	"authors": [
+		{
+			"email": "beegee@giesecke.tk",
+			"url": "https://www.desire.giesecke.tk",
+			"maintainer": true,
+			"name": "Bernd Giesecke"
+		}
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/beegee-tokyo/ESP32-MyLog"
+	},
+	"homepage": "https://github.com/beegee-tokyo/ESP32-MyLog"
+}
