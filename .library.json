@@ -4,10 +4,8 @@
 	"keywords": "logging",
 	"description": "Log output functions similar to the Arduino-ESP32 log function, but used for application code output only without the system level log output",
 	"frameworks": "arduino",
-	"platforms": [
-		"espressif32"
-	],
-	"license": "MIT License",
+	"platforms": "espressif32",
+	"license": "MIT",
 	"examples": "[Ee]xamples/*/*.ino",
 	"authors": {
 			"email": "beegee@giesecke.tk",
