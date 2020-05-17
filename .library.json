@@ -8,15 +8,13 @@
 		"espressif32"
 	],
 	"license": "MIT License",
-	"examples": "examples/*/*.ino",
-	"authors": [
-		{
+	"examples": "[Ee]xamples/*/*.ino",
+	"authors": {
 			"email": "beegee@giesecke.tk",
 			"url": "https://www.desire.giesecke.tk",
 			"maintainer": true,
 			"name": "Bernd Giesecke"
-		}
-	],
+		},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/beegee-tokyo/ESP32-MyLog"
