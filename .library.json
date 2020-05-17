@@ -7,7 +7,7 @@
 	"platforms": [
 		"espressif32"
 	],
-	"license": "MIT",
+	"license": "MIT License",
 	"examples": "[Ee]xamples/*/*.ino",
 	"authors": {
 			"email": "beegee@giesecke.tk",
