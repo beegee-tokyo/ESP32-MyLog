@@ -1,22 +1,14 @@
 {
 	"name": "ESP32-MyLog",
 	"version": "1.0.0",
-	"keywords": [
-		"logging"
-	],
+	"keywords": "logging",
 	"description": "Log output functions similar to the Arduino-ESP32 log function, but used for application code output only without the system level log output",
-	"frameworks": [
-		"arduino"
-	],
+	"frameworks": "arduino",
 	"platforms": [
 		"espressif32"
 	],
-	"license": [
-		"MIT License"
-	],
-	"examples": [
-		"examples/*/*.ino"
-	],
+	"license": "MIT License",
+	"examples": "examples/*/*.ino",
 	"authors": [
 		{
 			"email": "beegee@giesecke.tk",
